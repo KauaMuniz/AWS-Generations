@@ -2,9 +2,6 @@
 
 > Laboratório prático de redes na AWS: montei uma VPC do zero, liguei ela à internet e provei que funciona com um simples `ping`.
 
-![Status](https://img.shields.io/badge/status-concluído-brightgreen)
-![AWS](https://img.shields.io/badge/AWS-VPC%20%7C%20EC2-orange)
-![Duração](https://img.shields.io/badge/duração-60%20min-blue)
 
 ---
 
