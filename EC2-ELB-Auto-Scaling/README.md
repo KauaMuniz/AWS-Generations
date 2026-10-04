@@ -280,3 +280,10 @@ Ao final do laboratório, foi possível:
 ---
 
 **Laboratório de estudos — AWS / Generation Brasil**
+
+
+## 👨‍💻 Autor
+
+**Kauã Muniz**
+
+Estudante de Engenharia de Software | Cloud Computing | AWS | Backend
